@@ -1,7 +1,7 @@
 # **Exploratory Data Analysis- Movie Dataset**
 
 ## Dataset Description: 
-This data set contains information about +9000 movies extracted from TMDB API. 
+This data set contains information about +9000 movies extracted from TMDB. 
 
 ## Columns Descreption:
 1. `Release_Date`: Date when the movie was released.
