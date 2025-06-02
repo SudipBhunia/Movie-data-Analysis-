@@ -1,15 +1,4 @@
-# **Movie Data Analysis**
-
-| Contents 											 	   	|
-| -------- 											 	   	|
-| [Dataset Description](#Dataset-Description)			   	|
-| [Columns Descreption](#Columns-Descreption) 		   		|
-| [EDA Questions](#eda-questions)							|
-| [Data Wrangling](#Data-Wrangling)					   		|
-| [Data Cleaning](#Data-Cleaning)						   	|
-| [Data Visualization](#Data-Visualization)					|
-| [Conclusion](#Conclusion)									|
-| [Built with](#Built-with)							   		|
+# **Exploratory Data Analysis- Movie Dataset**
 
 ## Dataset Description: 
 This data set contains information about +9000 movies extracted from TMDB API. 
@@ -44,10 +33,9 @@ Our data can be found on `mymoviedb.csv` file provided on this repository, downl
 - `Vote_Average` bettter be categorised for proper analysis.
 - `Genre` column has comma saperated values and white spaces that needs to be handled and casted into category. 
 
-We endded up with a datafram of a total of 6 columns and 25551 rows to dig into during our analysis after comleting our cleaning. 
 
 ## Data Visualization
-Using `Matplotlib` and `Seaborn`, we made several meaningful visuals and charts to help us gain informative insights regarding any correlation between attributes in our dataset, that'll be discussed in the next section.
+Using `Matplotlib` and `Seaborn`, we made several meaningful visuals and charts to help us gain informative insights regarding any correlation between attributes in our dataset.
 
 ## Conclusion
 These are derived conclusions after completing our data visualisation phase.
